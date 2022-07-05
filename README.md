@@ -1,7 +1,7 @@
 # BarberShopJava
 
 - Destinado ao aprendizado.
-- Simula um aplicativo de gerenciamento de agendamentos para barbearia.
+- Simula um aplicativo de gerenciamento de agendamentos para Barbearia.
 - Feito na linguagem de programação java
 - Ainda em desenvolvimento.
 
