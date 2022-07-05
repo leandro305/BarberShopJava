@@ -12,4 +12,4 @@
 ![capa-pagina-agenda](https://user-images.githubusercontent.com/43631792/177243333-c29d2ae3-7859-4aba-bfe6-774afa0aff36.png)
 
 # Créditos:
-- Leandro Lobo
+- Tiago Luz
